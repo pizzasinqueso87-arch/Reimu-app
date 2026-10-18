@@ -10,6 +10,11 @@
     "android": {
       "package": "com.reimu.fumo360",
       "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ac98011f-b500-4dfa-863a-85edf3a2795e"
+      }
     }
   }
 }
