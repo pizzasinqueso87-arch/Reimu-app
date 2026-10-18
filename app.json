@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Reimu Fumo 360",
+    "slug": "reimu-fumo-360",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "owner": "0994109392",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#fdfdfd",
+    "android": {
+      "package": "com.reimu.fumo360",
+      "versionCode": 1
+    }
+  }
+}
